@@ -1,0 +1,4 @@
+#include <os2.h>
+
+ICON 1  "program.ico"
+
